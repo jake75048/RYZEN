@@ -1,0 +1,14 @@
+C:\Users\RYZEN\source\repos\tabuada\bin\Debug\net10.0\tabuada.exe
+C:\Users\RYZEN\source\repos\tabuada\bin\Debug\net10.0\tabuada.deps.json
+C:\Users\RYZEN\source\repos\tabuada\bin\Debug\net10.0\tabuada.runtimeconfig.json
+C:\Users\RYZEN\source\repos\tabuada\bin\Debug\net10.0\tabuada.dll
+C:\Users\RYZEN\source\repos\tabuada\bin\Debug\net10.0\tabuada.pdb
+C:\Users\RYZEN\source\repos\tabuada\obj\Debug\net10.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYZEN\source\repos\tabuada\obj\Debug\net10.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\RYZEN\source\repos\tabuada\obj\Debug\net10.0\tabuada.AssemblyInfo.cs
+C:\Users\RYZEN\source\repos\tabuada\obj\Debug\net10.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\tabuada\obj\Debug\net10.0\tabuada.dll
+C:\Users\RYZEN\source\repos\tabuada\obj\Debug\net10.0\refint\tabuada.dll
+C:\Users\RYZEN\source\repos\tabuada\obj\Debug\net10.0\tabuada.pdb
+C:\Users\RYZEN\source\repos\tabuada\obj\Debug\net10.0\tabuada.genruntimeconfig.cache
+C:\Users\RYZEN\source\repos\tabuada\obj\Debug\net10.0\ref\tabuada.dll
