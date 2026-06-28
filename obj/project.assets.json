@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\RYZEN\\source\\repos\\MaiorOuMenor\\MaiorOuMenor.csproj",
       "projectName": "MaiorOuMenor",
       "projectPath": "C:\\Users\\RYZEN\\source\\repos\\MaiorOuMenor\\MaiorOuMenor.csproj",
       "packagesPath": "C:\\Users\\RYZEN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\RYZEN\\source\\repos\\MaiorOuMenor\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\RYZEN\\source\\repos\\Média\\Média.csproj",
+      "projectName": "Média",
+      "projectPath": "C:\\Users\\RYZEN\\source\\repos\\Média\\Média.csproj",
+      "packagesPath": "C:\\Users\\RYZEN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RYZEN\\source\\repos\\Média\\obj\\",
+>>>>>>> 3c064890a614dd8880e4743bf6feafbc2b686a23
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RYZEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

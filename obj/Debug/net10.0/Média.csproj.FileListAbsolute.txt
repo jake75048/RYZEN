@@ -1,0 +1,14 @@
+C:\Users\RYZEN\source\repos\Média\bin\Debug\net10.0\Média.exe
+C:\Users\RYZEN\source\repos\Média\bin\Debug\net10.0\Média.deps.json
+C:\Users\RYZEN\source\repos\Média\bin\Debug\net10.0\Média.runtimeconfig.json
+C:\Users\RYZEN\source\repos\Média\bin\Debug\net10.0\Média.dll
+C:\Users\RYZEN\source\repos\Média\bin\Debug\net10.0\Média.pdb
+C:\Users\RYZEN\source\repos\Média\obj\Debug\net10.0\Média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYZEN\source\repos\Média\obj\Debug\net10.0\Média.AssemblyInfoInputs.cache
+C:\Users\RYZEN\source\repos\Média\obj\Debug\net10.0\Média.AssemblyInfo.cs
+C:\Users\RYZEN\source\repos\Média\obj\Debug\net10.0\Média.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Média\obj\Debug\net10.0\Média.dll
+C:\Users\RYZEN\source\repos\Média\obj\Debug\net10.0\refint\Média.dll
+C:\Users\RYZEN\source\repos\Média\obj\Debug\net10.0\Média.pdb
+C:\Users\RYZEN\source\repos\Média\obj\Debug\net10.0\Média.genruntimeconfig.cache
+C:\Users\RYZEN\source\repos\Média\obj\Debug\net10.0\ref\Média.dll
